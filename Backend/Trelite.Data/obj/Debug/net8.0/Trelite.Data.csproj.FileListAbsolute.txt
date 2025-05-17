@@ -1,0 +1,14 @@
+E:\Trelite\Backend\Trelite.Data\bin\Debug\net8.0\Trelite.Data.deps.json
+E:\Trelite\Backend\Trelite.Data\bin\Debug\net8.0\Trelite.Data.runtimeconfig.json
+E:\Trelite\Backend\Trelite.Data\bin\Debug\net8.0\Trelite.Data.dll
+E:\Trelite\Backend\Trelite.Data\bin\Debug\net8.0\Trelite.Data.pdb
+E:\Trelite\Backend\Trelite.Data\obj\Debug\net8.0\Trelite.Data.csproj.AssemblyReference.cache
+E:\Trelite\Backend\Trelite.Data\obj\Debug\net8.0\Trelite.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trelite\Backend\Trelite.Data\obj\Debug\net8.0\Trelite.Data.AssemblyInfoInputs.cache
+E:\Trelite\Backend\Trelite.Data\obj\Debug\net8.0\Trelite.Data.AssemblyInfo.cs
+E:\Trelite\Backend\Trelite.Data\obj\Debug\net8.0\Trelite.Data.csproj.CoreCompileInputs.cache
+E:\Trelite\Backend\Trelite.Data\obj\Debug\net8.0\Trelite.Data.dll
+E:\Trelite\Backend\Trelite.Data\obj\Debug\net8.0\refint\Trelite.Data.dll
+E:\Trelite\Backend\Trelite.Data\obj\Debug\net8.0\Trelite.Data.pdb
+E:\Trelite\Backend\Trelite.Data\obj\Debug\net8.0\Trelite.Data.genruntimeconfig.cache
+E:\Trelite\Backend\Trelite.Data\obj\Debug\net8.0\ref\Trelite.Data.dll

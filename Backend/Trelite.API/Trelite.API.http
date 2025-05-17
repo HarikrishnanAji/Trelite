@@ -1,0 +1,6 @@
+@Trelite.API_HostAddress = http://localhost:5206
+
+GET {{Trelite.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

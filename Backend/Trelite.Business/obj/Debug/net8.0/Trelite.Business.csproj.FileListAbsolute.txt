@@ -1,0 +1,11 @@
+E:\Trelite\Backend\Trelite.Business\bin\Debug\net8.0\Trelite.Business.deps.json
+E:\Trelite\Backend\Trelite.Business\bin\Debug\net8.0\Trelite.Business.dll
+E:\Trelite\Backend\Trelite.Business\bin\Debug\net8.0\Trelite.Business.pdb
+E:\Trelite\Backend\Trelite.Business\obj\Debug\net8.0\Trelite.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trelite\Backend\Trelite.Business\obj\Debug\net8.0\Trelite.Business.AssemblyInfoInputs.cache
+E:\Trelite\Backend\Trelite.Business\obj\Debug\net8.0\Trelite.Business.AssemblyInfo.cs
+E:\Trelite\Backend\Trelite.Business\obj\Debug\net8.0\Trelite.Business.csproj.CoreCompileInputs.cache
+E:\Trelite\Backend\Trelite.Business\obj\Debug\net8.0\Trelite.Business.dll
+E:\Trelite\Backend\Trelite.Business\obj\Debug\net8.0\refint\Trelite.Business.dll
+E:\Trelite\Backend\Trelite.Business\obj\Debug\net8.0\Trelite.Business.pdb
+E:\Trelite\Backend\Trelite.Business\obj\Debug\net8.0\ref\Trelite.Business.dll

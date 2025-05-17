@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Trelite.API.props" />
+</Project>
