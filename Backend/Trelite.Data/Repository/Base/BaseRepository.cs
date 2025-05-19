@@ -1,6 +1,6 @@
 using System;
 using Microsoft.EntityFrameworkCore;
-using Trelite.Data.DbContext;
+using Trelite.Data.Context;
 
 namespace Trelite.Data.Repository.Base;
 
@@ -16,6 +16,10 @@ public class BaseRepository<T>  where T : class
     public async Task<T> GetByIdAsync(object id)
     {
        return await _dbset.FindAsync(id);
+    }
+      public async Task<T> GetByName(object name)
+    {
+       return await _dbset.FindAsync(name);
     }
      public async Task<List<T>> GetAsync()
     {

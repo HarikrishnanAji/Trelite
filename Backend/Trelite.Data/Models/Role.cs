@@ -1,8 +1,9 @@
 using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Trelite.Data.Models;
-
+[Table("Roles",Schema ="Lookup")]
 public class Role
 {
     public short RoleId { get; set; }

@@ -7,7 +7,9 @@ E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Trelite.API.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Trelite.API.pdb
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Azure.Core.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Azure.Identity.dll
+E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Humanizer.dll
+E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
@@ -22,9 +24,7 @@ E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Ab
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
@@ -33,7 +33,6 @@ E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.St
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -57,17 +56,13 @@ E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\System.Composition.Hosting.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\System.Composition.Runtime.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\System.Drawing.Common.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\System.Formats.Asn1.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\System.IO.Pipelines.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\System.Memory.Data.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\System.Runtime.Caching.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\System.Security.Permissions.dll
-E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\System.Text.Json.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\System.Windows.Extensions.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
@@ -132,7 +127,6 @@ E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Trelite.Business.dll
 E:\Trelite\Backend\Trelite.API\bin\Debug\net8.0\Trelite.Data.dll
@@ -145,6 +139,7 @@ E:\Trelite\Backend\Trelite.API\obj\Debug\net8.0\Trelite.API.AssemblyInfo.cs
 E:\Trelite\Backend\Trelite.API\obj\Debug\net8.0\Trelite.API.csproj.CoreCompileInputs.cache
 E:\Trelite\Backend\Trelite.API\obj\Debug\net8.0\Trelite.API.MvcApplicationPartsAssemblyInfo.cs
 E:\Trelite\Backend\Trelite.API\obj\Debug\net8.0\Trelite.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Trelite\Backend\Trelite.API\obj\Debug\net8.0\Trelite.API.sourcelink.json
 E:\Trelite\Backend\Trelite.API\obj\Debug\net8.0\staticwebassets.build.json
 E:\Trelite\Backend\Trelite.API\obj\Debug\net8.0\staticwebassets.development.json
 E:\Trelite\Backend\Trelite.API\obj\Debug\net8.0\staticwebassets\msbuild.Trelite.API.Microsoft.AspNetCore.StaticWebAssets.props

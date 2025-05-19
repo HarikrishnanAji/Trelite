@@ -1,13 +1,14 @@
 using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Trelite.Data.Models;
-
+[Table("Users",Schema ="App")]
 public class User
 {
     [Key]
     [Required]
-    // [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+    [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
     public short? UserId { get; set; }
     [Required(ErrorMessage ="Please enter a user name")]
     public required string UserName { get; set; }
@@ -25,6 +26,6 @@ public class User
     public DateTime? Dd { get; set; }
     [Required]
     public DateTime Lu { get; set; } 
-    public int RoleId { get; set; }
+    public short RoleId { get; set; }
     public Role Role { get; set; }
 }

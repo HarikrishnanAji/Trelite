@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trelite.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0dd31769fcbaa941dd0962839f8da5f10c0f5b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trelite.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trelite.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

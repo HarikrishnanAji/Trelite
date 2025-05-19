@@ -1,19 +1,18 @@
 using System;
-using Trelite.Data.DbContext;
+using Trelite.Data.Context;
 using Trelite.Data.Interface;
 using Trelite.Data.Models;
 using Trelite.Data.Repository.Base;
 
 namespace Trelite.Data.Repository;
 
-public class UserRepository:BaseRepository<User>,IUserRepository
+public class UserRepository : BaseRepository<User>,IUserRepository
 {
-    protected readonly AppDbContext _appDbContext;
+    private readonly AppDbContext _appDbContext;
     public UserRepository(AppDbContext appDbContext):base(appDbContext)
     {
         _appDbContext = appDbContext;
     }
-
     public async Task<List<User>> GetAllUserAsync()
     {
         return await GetAsync();
@@ -21,6 +20,10 @@ public class UserRepository:BaseRepository<User>,IUserRepository
     public async Task<User> GetUserByIdAsync(int userId)
     {
         return await GetByIdAsync(userId);
+    }
+    public async Task<User> GetUserByName(string userName)
+    {
+        return await GetByName(userName);
     }
     public async Task<User> SaveUserAsync(User user)
     {

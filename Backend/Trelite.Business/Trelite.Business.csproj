@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Trelite.API\Trelite.API.csproj" />
     <ProjectReference Include="..\Trelite.Data\Trelite.Data.csproj" />
   </ItemGroup>
 
